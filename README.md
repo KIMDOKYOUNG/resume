@@ -1,5 +1,23 @@
 
 # resume
-## 김도경
-## KIMDOKYOUNG 
-### email : h20151505@hallym.ac.kr / ehrud235@gmail.com
+### 김도경 / KIMDOKYOUNG 
+> email : h20151505@hallym.ac.kr / ehrud235@gmail.com
+
+> Conference
+  - 김도경, 김유섭.(2020).TF-IDF와 N-gram을 이용한 중국 언론 키워드 분석 시스템 개발.Korea Computer Congress 2020
+
+> 수상 경력 
+  - 2020 한림대학교 소프트웨어 융합대회 캡스톤 경진대회 1위
+  - 2019 제4회 DAH 프로젝트전시회 대상
+  - 2019 제4회 DAH 프로젝트 전시회 우수상 
+  - 2018 제1회 한림 소프트웨어 해커톤 장려상 
+  - 2018 제3회 DAH 프로젝트전시회 소프트웨어융합대학장상 
+
+> 연구실 
+  공학관 1163-2호
+
+> 관심분야
+  - 자연어처리 
+  - 중국어 한국어 다국어 코퍼스 구축  
+  - 텍스트마이닝
+  - 딥러닝 
