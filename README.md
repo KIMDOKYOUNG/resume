@@ -101,5 +101,8 @@
   
   |년도|과목명|점수|
   |:---:|:---:|:---:|
-  |2015|<span style = "color:red;">운영체제</span>|A+|
+  |2020|<span style = "color:red;">운영체제</span>|A+|
+  |2020|<span style = "color:red;">딥러닝기초</span>|A+|
+  |2020|<span style = "color:red;">영상처리프로그래밍</span>|A+|
+  |2020|<span style = "color:red;">인문데이터베이스기초</span>|A+|
 
