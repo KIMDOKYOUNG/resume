@@ -2,6 +2,7 @@
 # resume
 ### 김도경 / KIMDOKYOUNG 
 ---
+![kimdokyoung](김도경.jpg)
 
 > Education
   - 한림대학교 중국학과
