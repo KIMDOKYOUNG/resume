@@ -1,6 +1,8 @@
 
 # resume
 ### 김도경 / KIMDOKYOUNG 
+---
+
 > Education
   - 한림대학교 중국학과
   - 복수전공 
@@ -8,6 +10,7 @@
     - 디지털인문예술 전공
     
 > email 
+
   h20151505@hallym.ac.kr / ehrud235@gmail.com
 
 > 연구실  
