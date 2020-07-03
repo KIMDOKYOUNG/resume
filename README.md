@@ -3,6 +3,7 @@
 ### 김도경 / KIMDOKYOUNG 
 ---
 ![kimdokyoung](김도경.jpg)
+<img src = 김도경.jpg width = 200 height = 200>
 
 > Education
   - 한림대학교 중국학과
