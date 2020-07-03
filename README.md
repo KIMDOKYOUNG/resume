@@ -94,5 +94,5 @@
   
   |년도|과목명|점수|
   |:---:|:---:|:---:|
-  |2015|<span style= "color : red">중국개황</span>|A|
+  |2015|<span style= "color:red;">중국개황</span>|A|
 
